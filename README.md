@@ -6,3 +6,5 @@
 4. Misc
 5. remote branch - feature
 6. Add brach in local-20190816
+7. Before rebase
+
